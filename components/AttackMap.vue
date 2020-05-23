@@ -178,12 +178,12 @@ export default {
 
 .instruction p {
   color:  #616161;;
-  font-size: 16px;
+  font-size: 1em;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
 }
 .instruction .fa-mouse {
-    font-size:  32px;
+    font-size:  2em;
     color: #616161;
     padding-top: 4px;
 }

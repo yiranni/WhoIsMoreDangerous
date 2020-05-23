@@ -89,12 +89,12 @@ export default {
 
 .summary-data h1 {
   font-family: "Roboto", sans-serif;
-  font-size: 56px;
+  font-size: 3.5em;
   font-weight: 900;
 }
 .summary-data p {
   font-family: "Roboto", sans-serif;
-  font-size: 14px;
+  font-size: 0.9em;
   color: gray;
 }
 </style>
