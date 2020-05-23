@@ -1,7 +1,7 @@
 <template>
   <div class="hemisphere">
     <div class="title">
-      <h3>Cases by hemisphere</h3>
+      <!-- <h3>Cases by hemisphere</h3> -->
     </div>
   </div>
 </template>
