@@ -13,7 +13,7 @@
   </div>
 </template>
 
-<script>
+<script scoped>
 import attackData from "~/src/data/attacks.json";
 export default {
   name: "SummayData",

@@ -14,7 +14,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
 .project-title {
@@ -27,7 +27,7 @@ export default {
 .project-title h3 {
   color: gray;
   padding-top: 2em;
-  font-size: 24px;
+  font-size: 1.5rem;
   line-height: 28px;
  
 }
@@ -44,7 +44,7 @@ export default {
   .project-title h1 {
     padding-left: 8px;
     padding-right: 8px;
-    font-size: 36px;
+    font-size: 2.5rem;
   }
 }
 
@@ -54,7 +54,7 @@ export default {
     padding-right: 300px;
   }
   .project-title h1 {
-    font-size: 52px; 
+    font-size: 3rem; 
     padding-left: 300px;
     padding-right: 300px;
 

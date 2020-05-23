@@ -21,7 +21,7 @@ export default {
 }
 
 .hemisphere .title h3 {
-  font-size: 36px;
+  font-size: 1.5rem;
   font-family: "Merriweather", serif;
   color: black;
   font-weight: 900;

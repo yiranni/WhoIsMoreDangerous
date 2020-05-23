@@ -135,24 +135,29 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 @import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+
 .map .title {
   text-align: center;
   margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 .map .title h3 {
-  font-size: 36px;
+  font-size: 1.5rem;
   font-family: "Merriweather", serif;
   color: black;
   font-weight: 900;
 }
 
 .wrapper {
-  max-width: 1200px;
-  margin: 30px auto;
+  max-width: 800px;
+ 
+  /* max-height: 1200px; */
+  margin: 0px auto;
 }
 
 .instruction {
