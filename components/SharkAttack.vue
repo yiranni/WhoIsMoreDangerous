@@ -58,10 +58,15 @@ export default {
 
       const attackSummaryDom = this.$refs.attackSummary;
 
-      const attackSummary = d3.select(attackSummaryDom)
+      /*Responsive SVG */
+      const attackSummary = d3
+        .select(attackSummaryDom)
         .attr("preserveAspectRatio", "xMinYMin meet")
         .attr("viewBox", `0 0 ${width}, ${height}`)
         .attr("id", "attackSummary-responsive");
+
+      const x = d3.scaleLinear();
+      const y = d3.scaleBand().rangeRound([0, height], 0.1);
 
       // attackSummaryDom.style.backgroundColor = "black";
 

@@ -41,6 +41,11 @@ export default {
   */
   modules: [
   ],
+
+    router: {
+    base: "https://yiranni.github.io/WhoIsMoreDangerous/",
+    mode: "hash"
+  },
   /*
   ** Build configuration
   */

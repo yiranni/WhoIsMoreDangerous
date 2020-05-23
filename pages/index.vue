@@ -2,7 +2,9 @@
   <div class="container">
     <SummaryData />
     <Intro />
-    <SharkAttack />
+    <!-- <SharkAttack /> -->
+    <AttackMap />
+    <Hemisphere />
   </div>
 </template>
 
@@ -10,12 +12,16 @@
 import SummaryData from '~/components/SummaryData.vue'
 import Intro from '~/components/Intro.vue'
 import SharkAttack from '~/components/SharkAttack.vue'
+import AttackMap from '~/components/AttackMap.vue'
+import Hemisphere from '~/components/Hemisphere.vue'
 
 export default {
   components: {
     Intro,
     SharkAttack,
-    SummaryData
+    SummaryData,
+    AttackMap,
+    Hemisphere
   }
 }
 </script>

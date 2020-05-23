@@ -3,10 +3,6 @@
     <div class="project-title">
       <h1 style="font-weight: 900;">Overview of shark attacks in the past 20 years</h1>
       <h3>Shark attacks reach to the peak as summer is approaching. This project visualizes how, where, and when shark attacks happened during 2000-2019.</h3>
-      <!-- <h2>
-        <span style="background-color: #457b9d; color: white; padding: 4px; padding-left: 8px; padding-right: 8px">Shark</span> or
-        <span style="background-color: #e63946; color: white; padding: 4px; padding-left: 8px; padding-right: 8px">Human</span>
-      </h2> -->
       <p style="padding-top: 2em"><span style="font-weight: bold">BY YIRAN NI    |</span><span style="color: gray">   UPDATED MAY 21,2020</span></p>
     </div>
   </div>
