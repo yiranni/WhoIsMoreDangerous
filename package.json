@@ -28,6 +28,7 @@
   "devDependencies": {
     "@fortawesome/fontawesome-free": "^5.13.0",
     "countup.js": "^2.0.5",
+    "push-dir": "^0.4.1",
     "vue-countup-v2": "^4.0.0"
   }
 }
