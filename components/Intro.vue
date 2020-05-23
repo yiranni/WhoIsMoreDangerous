@@ -21,12 +21,13 @@ export default {
   text-align: center;
   font-family: 'Merriweather', serif;
   padding-top: 4em;
+
   
 }
 .project-title h3 {
   color: gray;
   padding-top: 2em;
-  font-size: 18px;
+  font-size: 24px;
   line-height: 28px;
  
 }
