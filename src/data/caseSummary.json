@@ -1,0 +1,578 @@
+[
+    {
+        "name": "UNITED STATES",
+        "cases": 1014,
+        "deaths": 20,
+        "fatality": "0.02"
+    },
+    {
+        "name": "AUSTRALIA",
+        "cases": 395,
+        "deaths": 33,
+        "fatality": "0.08"
+    },
+    {
+        "name": "MEXICO",
+        "cases": 25,
+        "deaths": 4,
+        "fatality": "0.16"
+    },
+    {
+        "name": "BRAZIL",
+        "cases": 56,
+        "deaths": 18,
+        "fatality": "0.32"
+    },
+    {
+        "name": "ENGLAND",
+        "cases": 4,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "SOUTH AFRICA",
+        "cases": 137,
+        "deaths": 22,
+        "fatality": "0.16"
+    },
+    {
+        "name": "THAILAND",
+        "cases": 6,
+        "deaths": 2,
+        "fatality": "0.33"
+    },
+    {
+        "name": "COSTA RICA",
+        "cases": 8,
+        "deaths": 2,
+        "fatality": "0.25"
+    },
+    {
+        "name": "MALDIVES",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "BAHAMAS",
+        "cases": 54,
+        "deaths": 1,
+        "fatality": "0.02"
+    },
+    {
+        "name": "NEW CALEDONIA",
+        "cases": 26,
+        "deaths": 8,
+        "fatality": "0.31"
+    },
+    {
+        "name": "ECUADOR",
+        "cases": 7,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "MALAYSIA",
+        "cases": 4,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "LIBYA",
+        "cases": 1,
+        "deaths": 1,
+        "fatality": "1.00"
+    },
+    {
+        "name": "CUBA",
+        "cases": 6,
+        "deaths": 1,
+        "fatality": "0.17"
+    },
+    {
+        "name": "MAURITIUS",
+        "cases": 2,
+        "deaths": 1,
+        "fatality": "0.50"
+    },
+    {
+        "name": "NEW ZEALAND",
+        "cases": 43,
+        "deaths": 4,
+        "fatality": "0.09"
+    },
+    {
+        "name": "SPAIN",
+        "cases": 16,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "SAMOA",
+        "cases": 2,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "SOLOMON ISLANDS",
+        "cases": 5,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "JAPAN",
+        "cases": 7,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "EGYPT",
+        "cases": 21,
+        "deaths": 5,
+        "fatality": "0.24"
+    },
+    {
+        "name": "ST HELENA, British overseas territory",
+        "cases": 2,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "COMOROS",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "REUNION",
+        "cases": 31,
+        "deaths": 11,
+        "fatality": "0.35"
+    },
+    {
+        "name": "FRENCH POLYNESIA",
+        "cases": 17,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "UNITED KINGDOM",
+        "cases": 6,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "UNITED ARAB EMIRATES",
+        "cases": 2,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "PHILIPPINES",
+        "cases": 10,
+        "deaths": 3,
+        "fatality": "0.30"
+    },
+    {
+        "name": "INDONESIA",
+        "cases": 7,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "CHINA",
+        "cases": 2,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "COLUMBIA",
+        "cases": 3,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "CAPE VERDE",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "Fiji",
+        "cases": 1,
+        "deaths": 1,
+        "fatality": "1.00"
+    },
+    {
+        "name": "DOMINICAN REPUBLIC",
+        "cases": 3,
+        "deaths": 1,
+        "fatality": "0.33"
+    },
+    {
+        "name": "CAYMAN ISLANDS",
+        "cases": 2,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "ARUBA",
+        "cases": 1,
+        "deaths": 1,
+        "fatality": "1.00"
+    },
+    {
+        "name": "MOZAMBIQUE",
+        "cases": 6,
+        "deaths": 2,
+        "fatality": "0.33"
+    },
+    {
+        "name": "FIJI",
+        "cases": 13,
+        "deaths": 6,
+        "fatality": "0.46"
+    },
+    {
+        "name": "PUERTO RICO",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "ITALY",
+        "cases": 4,
+        "deaths": 1,
+        "fatality": "0.25"
+    },
+    {
+        "name": "ATLANTIC OCEAN",
+        "cases": 4,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "GREECE",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "ST. MARTIN",
+        "cases": 2,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "FRANCE",
+        "cases": 2,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "PAPUA NEW GUINEA",
+        "cases": 9,
+        "deaths": 3,
+        "fatality": "0.33"
+    },
+    {
+        "name": "TRINIDAD & TOBAGO",
+        "cases": 2,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "KIRIBATI",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "ISRAEL",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "DIEGO GARCIA",
+        "cases": 1,
+        "deaths": 1,
+        "fatality": "1.00"
+    },
+    {
+        "name": "TAIWAN",
+        "cases": 4,
+        "deaths": 1,
+        "fatality": "0.25"
+    },
+    {
+        "name": "JAMAICA",
+        "cases": 3,
+        "deaths": 1,
+        "fatality": "0.33"
+    },
+    {
+        "name": "PALESTINIAN TERRITORIES",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "GUAM",
+        "cases": 3,
+        "deaths": 1,
+        "fatality": "0.33"
+    },
+    {
+        "name": "SEYCHELLES",
+        "cases": 4,
+        "deaths": 2,
+        "fatality": "0.50"
+    },
+    {
+        "name": "BELIZE",
+        "cases": 2,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "NIGERIA",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "TONGA",
+        "cases": 7,
+        "deaths": 3,
+        "fatality": "0.43"
+    },
+    {
+        "name": "SCOTLAND",
+        "cases": 4,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "CANADA",
+        "cases": 2,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "CROATIA",
+        "cases": 2,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "SAUDI ARABIA",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "CHILE",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "ANTIGUA",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "KENYA",
+        "cases": 2,
+        "deaths": 2,
+        "fatality": "1.00"
+    },
+    {
+        "name": "RUSSIA",
+        "cases": 4,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "TURKS & CAICOS",
+        "cases": 5,
+        "deaths": 2,
+        "fatality": "0.40"
+    },
+    {
+        "name": "UNITED ARAB EMIRATES (UAE)",
+        "cases": 2,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "AZORES",
+        "cases": 2,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "SOUTH KOREA",
+        "cases": 2,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "MALTA",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "VIETNAM",
+        "cases": 10,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "MADAGASCAR",
+        "cases": 3,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "PANAMA",
+        "cases": 3,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "SOMALIA",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "NEVIS",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "BRITISH VIRGIN ISLANDS",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "NORWAY",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "SENEGAL",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "YEMEN",
+        "cases": 1,
+        "deaths": 1,
+        "fatality": "1.00"
+    },
+    {
+        "name": "GULF OF ADEN",
+        "cases": 1,
+        "deaths": 1,
+        "fatality": "1.00"
+    },
+    {
+        "name": "Sierra Leone",
+        "cases": 1,
+        "deaths": 1,
+        "fatality": "1.00"
+    },
+    {
+        "name": "GRAND CAYMAN",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "Seychelles",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "LIBERIA",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "VANUATU",
+        "cases": 2,
+        "deaths": 1,
+        "fatality": "0.50"
+    },
+    {
+        "name": "MEXICO ",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "HONDURAS",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "VENEZUELA",
+        "cases": 4,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "SRI LANKA",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "URUGUAY",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "INDIA",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "MICRONESIA",
+        "cases": 1,
+        "deaths": 0,
+        "fatality": "0.00"
+    },
+    {
+        "name": "CARIBBEAN SEA",
+        "cases": 1,
+        "deaths": 1,
+        "fatality": "1.00"
+    },
+    {
+        "name": "OKINAWA",
+        "cases": 1,
+        "deaths": 1,
+        "fatality": "1.00"
+    },
+    {
+        "name": "TANZANIA",
+        "cases": 5,
+        "deaths": 5,
+        "fatality": "1.00"
+    }
+]
