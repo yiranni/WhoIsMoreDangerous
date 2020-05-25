@@ -5,6 +5,7 @@
     <!-- <SharkAttack /> -->
     <AttackMap />
     <Hemisphere />
+    <GenderAge />
   </div>
 </template>
 
@@ -14,6 +15,7 @@ import Intro from '~/components/Intro.vue'
 import SharkAttack from '~/components/SharkAttack.vue'
 import AttackMap from '~/components/AttackMap.vue'
 import Hemisphere from '~/components/Hemisphere.vue'
+import GenderAge from '~/components/GenderAge.vue'
 
 export default {
   components: {
@@ -21,7 +23,8 @@ export default {
     SharkAttack,
     SummaryData,
     AttackMap,
-    Hemisphere
+    Hemisphere,
+    GenderAge
   }
 }
 </script>

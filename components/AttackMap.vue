@@ -23,7 +23,7 @@
        <i class="fas fa-mouse"></i>
       </div>
       <div>
-        <p>Hover or tap to explore data</p>
+        <p>Hover or tap map to explore data</p>
       </div>
     </div>
   </div>
@@ -167,8 +167,9 @@ export default {
   margin: 0px auto;
 }
 
+
 .instruction {
-  max-width: 280px;
+  max-width: 350px;
   background-color: transparent;
   padding: 10px 10px 10px 20px;
   margin: 30px auto;
