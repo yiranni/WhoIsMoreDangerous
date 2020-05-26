@@ -2,6 +2,7 @@
   <div class="gender">
     <div class="title">
       <h3>Cases by gender and age</h3>
+      <p>Shark attacks happen the most among young males. </p>
     </div>
     <div class="gender-wrapper" ref="gender_container">
       <svg ref="gender" />
@@ -410,6 +411,17 @@ export default {
   font-family: "Merriweather", serif;
   color: black;
   font-weight: 900;
+}
+
+.gender .title p {
+     text-align: center;
+    font-family: "Roboto", serif;
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    line-height: 22px;
+
 }
 
 .gender-wrapper {

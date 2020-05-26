@@ -2,10 +2,11 @@
   <div class="container">
     <SummaryData />
     <Intro />
-    <!-- <SharkAttack /> -->
     <AttackMap />
     <Hemisphere />
     <GenderAge />
+    <Activity />
+
   </div>
 </template>
 
@@ -16,6 +17,7 @@ import SharkAttack from '~/components/SharkAttack.vue'
 import AttackMap from '~/components/AttackMap.vue'
 import Hemisphere from '~/components/Hemisphere.vue'
 import GenderAge from '~/components/GenderAge.vue'
+import Activity from '~/components/Activity.vue'
 
 export default {
   components: {
@@ -24,7 +26,8 @@ export default {
     SummaryData,
     AttackMap,
     Hemisphere,
-    GenderAge
+    GenderAge,
+    Activity
   }
 }
 </script>

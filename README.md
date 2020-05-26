@@ -8,6 +8,19 @@ Data Visualization project to analyze shark attack and shart fish
 
 - [Shark Attacks Per Year](assets/data/total-shark-attacks-per-year.csv)
 
+## Components
+
+### Shark Attack Map
+
+![map](src/img/components/map.png)
+
+### Shark Attack Cases by Hemisphere
+![hemisphere](src/img/components/hemisphere.png)
+
+### Shark Attack Cases by Gender and Age
+
+![gender](src/img/components/gender.png)
+
 ## Idealization
 
 ### World Map

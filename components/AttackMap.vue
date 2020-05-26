@@ -150,7 +150,7 @@ export default {
 .map .title {
   text-align: center;
   margin-top: 1em;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 }
 
 .map .title h3 {

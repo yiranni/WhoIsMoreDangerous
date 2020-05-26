@@ -2,6 +2,7 @@
   <div class="hemisphere">
     <div class="title">
       <h3>Cases by hemisphere</h3>
+      <p>In the past 20 years, more shark attack cases were reported officially in the Northen hemisphere than in the Southen hemisphere, but confirmed deaths are about the same in both hemispheres. What is being said, the fatality rate of shark attacks is higher in the Southen hemisphere. </p>
     </div>
     <div class="hemisphere-wrapper" ref="hemisphere_container">
       <svg ref="hemisphere" />
@@ -495,16 +496,30 @@ export default {
 
 <style scoped>
 .hemisphere .title {
-  text-align: center;
+  
   margin-bottom: 0.5em;
   margin-top: 0.5em;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 .hemisphere .title h3 {
+    text-align: center;
   font-size: 1.5rem;
   font-family: "Merriweather", serif;
   color: black;
   font-weight: 900;
+}
+
+.hemisphere .title p {
+     text-align: center;
+    font-family: "Roboto", serif;
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    line-height: 22px;
+
 }
 
 .hemisphere-wrapper {

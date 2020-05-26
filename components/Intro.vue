@@ -28,6 +28,8 @@ export default {
   text-align: center;
   font-family: 'Merriweather', serif;
   padding-top: 4em;
+  max-width: 600px;
+  margin: 0 auto;
 
   
 }
@@ -44,7 +46,7 @@ export default {
   font-size: 1em
 }
 
-@media only screen and (max-width: 812px) {
+/* @media only screen and (max-width: 812px) {
   .project-title h3 {
     padding-left: 10px;
     padding-right: 10px;
@@ -54,9 +56,9 @@ export default {
     padding-right: 8px;
     
   }
-}
+} */
 
-@media only screen and (min-width: 813px) {
+/* @media only screen and (min-width: 813px) {
   .project-title h3 {
     padding-left: 300px;
     padding-right: 300px;
@@ -67,7 +69,7 @@ export default {
     padding-right: 300px;
 
   }
-}
+} */
 
 h2 {
   padding-top: 1em;
